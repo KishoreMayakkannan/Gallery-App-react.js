@@ -1,0 +1,5 @@
+/* Write your code here. */
+.list-thumbmnail-card {
+  display: flex;
+  flex-wrap: wrap;
+}
